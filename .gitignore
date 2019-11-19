@@ -1,2 +1,13 @@
-*.iml
 target
+target/
+.settings/
+.classpath
+.project
+*.iml
+
+# IntelliJ
+.idea/
+*.iml
+
+# Misc.
+**/.DS_Store
